@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/images/ipavlov_header.png">
+<img src="./images/ipavlov_header.png">
 </p>
 
 ```python
