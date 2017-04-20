@@ -46,9 +46,9 @@ if YOU in ['researcher',
 Основными инструментами являются Python, SQL и NoSQL СУБД (для Back-end), современные JS-фреймворки (для Front-end). Требуются соответствующий опыт разработки продуктивных приложений, желателен опыт решения NLP задач, сбора и подготовки данных для обучения моделей.
 
 <p align="center">
-<img src="/images/ipavlov_logo.png">
+<img src="./images/ipavlov_logo.png">
 </p>
 
 <p align="center">
-<img src="/images/ipavlov_footer.png">
+<img src="./images/ipavlov_footer.png">
 </p>
