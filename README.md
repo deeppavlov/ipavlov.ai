@@ -1,4 +1,6 @@
-# Проект iPavlov
+<p align="center">
+<img src="/images/ipavlov_header.png">
+</p>
 
 ```python
 # Definition of iPavlov project
