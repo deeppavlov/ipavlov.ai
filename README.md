@@ -48,3 +48,7 @@ if YOU in ['researcher',
 <p align="center">
 <img src="/images/ipavlov_logo.png">
 </p>
+
+<p align="center">
+<img src="/images/ipavlov_footer.png">
+</p>
