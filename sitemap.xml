@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://ipavlov.ai/about/</loc>
+    <lastmod>2017-05-01T15:48:01+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipavlov.ai/start_page/</loc>
+    <lastmod>2017-05-01T12:49:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipavlov.ai/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ipavlov.ai/</loc>
+    <lastmod>2017-05-01T15:48:01+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ipavlov.ai/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

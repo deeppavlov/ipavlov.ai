@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Creative Theme</title>
+    <link>http://ipavlov.ai/</link>
+    <description>Recent content on Hugo Creative Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 01 May 2017 15:48:01 +0300</lastBuildDate>
+    
+	<atom:link href="http://ipavlov.ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>http://ipavlov.ai/about/</link>
+      <pubDate>Mon, 01 May 2017 15:48:01 +0300</pubDate>
+      
+      <guid>http://ipavlov.ai/about/</guid>
+      <description># Definition of iPavlov project def iPavlov(talent, ideas): research = ideas * talent AI = development(research) return AI # How you are related to the iPavlov project email.send(&#39;merge@ipavlov.ai&#39;, YOU.CV) if YOU in [&#39;researcher&#39;,&#39;developer&#39;] \ and YOU is (&#39;ai_geek&#39; &amp;amp; &#39;performer&#39; &amp;amp; &#39;team_player&#39;): iPavlov(YOU.talent, YOU.ideas) # Ready for the challenge? Send CV to merge@ipavlov.ai   “Может ли машина мыслить?”: 433-460.&amp;ldquo;), Turing, Alan M. Computing machinery and intelligence. Mind 59.236 (1950): 433-460.</description>
+    </item>
+    
+    <item>
+      <title>start_page</title>
+      <link>http://ipavlov.ai/start_page/</link>
+      <pubDate>Mon, 01 May 2017 12:49:48 +0300</pubDate>
+      
+      <guid>http://ipavlov.ai/start_page/</guid>
+      <description># Definition of iPavlov project def iPavlov(talent, ideas): research = ideas * talent AI = development(research) return AI # How you are related to the iPavlov project email.send(&#39;merge@ipavlov.ai&#39;, YOU.CV) if YOU in [&#39;researcher&#39;,&#39;developer&#39;] \ and YOU is (&#39;ai_geek&#39; &amp;amp; &#39;performer&#39; &amp;amp; &#39;team_player&#39;): iPavlov(YOU.talent, YOU.ideas) # Ready for the challenge? Send CV to merge@ipavlov.ai   “Может ли машина мыслить?”: 433-460.&amp;ldquo;), Turing, Alan M. Computing machinery and intelligence. Mind 59.236 (1950): 433-460.</description>
+    </item>
+    
+  </channel>
+</rss>
