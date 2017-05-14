@@ -11,7 +11,7 @@ body {
 }
 
 body {
-    font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
+    font-family: Consolas,Menlo,Monaco,'Lucida Console','Liberation Mono','DejaVu Sans Mono',Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
     /*!Merriweather,'Helvetica Neue',Arial,sans-serif; */
 
 }
@@ -59,7 +59,8 @@ h6 {
 
 p {
     margin-bottom: 20px;
-    font-size: 16px;
+    font-size: 20px;
+    font-weight: 300;
     line-height: 1.5;
 }
 
@@ -203,7 +204,7 @@ header {
 header .header-content {
     position: relative;
     width: 100%;
-    padding: 100px 15px;
+    padding: 30px 15px;
     text-align: center;
 }
 
