@@ -11,9 +11,9 @@ body {
 }
 
 body {
-    font-family: Consolas,Menlo,Monaco,'Lucida Console','Liberation Mono','DejaVu Sans Mono',Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
+    font-family: Consolas, Menlo, Monaco,'Lucida Console','Liberation Mono','DejaVu Sans Mono',Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
     /*!Merriweather,'Helvetica Neue',Arial,sans-serif; */
-
+    font-weight: 100;
 }
 
 hr {
@@ -53,14 +53,16 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
+    font-family: Consolas, Menlo, Monaco, monospace, Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,sans-serif;
     /*! 'Open Sans','Helvetica Neue',Arial,sans-serif; */
 }
 
 p {
     margin-bottom: 20px;
-    font-size: 16px;
-    font-weight: 300;
+    margin-left: 10%;
+    margin-right: 5%;
+    font-size: 18px;
+    font-weight: 100;
     line-height: 1.5;
 }
 
