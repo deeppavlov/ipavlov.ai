@@ -18,8 +18,7 @@ body {
 
 hr {
     max-width: 100px;
-    border-color: rgba(89, 165, 216, 1);
-    border-width: 3px;
+    border: 3px rgba(89, 165, 216, 1);
 }
 
 hr.light {
@@ -103,7 +102,7 @@ aside {
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    # text-transform: uppercase;
+    /*text-transform: uppercase;*/
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
     color:  rgba(23, 111, 207, 1);
@@ -195,7 +194,6 @@ header {
     min-height: auto;
     text-align: center;
     color: #000;
-    background-image: url(../img/header.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -250,7 +248,7 @@ header .header-content .header-content-inner p {
         margin-left: auto;
         width: 100%;
         max-width: 100%;
-        # max-width: 1000px;
+        /*max-width: 1000px;*/
     }
 
     header .header-content .header-content-inner p {
