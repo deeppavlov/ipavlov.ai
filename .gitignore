@@ -37,6 +37,7 @@ cmake-build-release/
 
 # File-based project format
 *.iws
+*.swp
 
 # IntelliJ
 out/
